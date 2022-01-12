@@ -1,0 +1,2 @@
+e=Erik
+print(e)
